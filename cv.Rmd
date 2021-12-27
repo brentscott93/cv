@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 Aside
@@ -108,7 +108,7 @@ Neuromuscular Physiology Lab - Vanderbilt University Medical Center
 
 Nashville, TN
 
-2015 - 2016
+2015-2016
 
 - Used non-invasive techniques to study skeletal muscle blood flow *in vivo*.
 
@@ -205,4 +205,100 @@ N/A
 2020
 
 Woodward M, Ostrander E, Jeong S, Liu X, **Scott B**, Unger M, Chen J, Venkataraman D, Debold EP. 
+
+Presentations {data-icon=chalkboard}
+--------------------------------------------------------------------------------
+###  Biophysical Society 65th Annual Meeting
+
+Platform: Actin and Associated Proteins - Myosins
+
+Virtual
+
+2021
+
+- Myosin's powerstroke occurs with phosphate still in the active
+site
+
+### ACSM National Meeting
+
+Rapid Fire Presentation
+
+Orlando, FL
+
+2019
+
+- Tropomyosin based effects of acidosis on thin-
+filament regulation during muscle fatigue
+
+
+Grants {data-icon=receipt}
+--------------------------------------------------------------------------------
+### UMass KIN Travel Grant
+
+$150
+
+N/A
+
+2020
+
+###  UMass UMOVE Callaboration Seed Grant
+
+$5,000 (for MS Thesis)
+
+N/A
+
+2017
+
+
+
+Certifications {data-icon=certificate}
+--------------------------------------------------------------------------------
+###  Certified Strength & Conditioning Specialist (CSCS) 
+
+National Strength & Conditioning Association (NSCA) 
+
+N/A
+
+2016-2021
+
+### UMass Continuing & Professional Education Online Instructor Certification
+
+N/A
+
+N/A
+
+2018
+
+Mentorship {data-icon=users}
+--------------------------------------------------------------------------------
+### Undergraduate Teaching Assistantships
+
+Human Performance & Nutrition - KIN 110
+
+UMass Amherst
+
+2018
+
+- Joshua Robert, B.S. Kinesiology 2018
+- Mary Griffin, B.S. Kinesiology 2019
+- Sara Keelan, B.S., Kinesiology 2019
+- Emily Donovan, B.S. Kinesiology 2020
+- Joseph Howard, B.S. Kinesiology 2020
+
+### Undergraduate Research Projects
+
+Muscle Biophysics Lab
+
+UMass Amherst
+
+2018-2020
+
+- Sabrina Harrath, B.S. Biology 2020
+- Cindy Nguyen, B.S. Kinesiology 2020
+
+
+
+
+
+
 
