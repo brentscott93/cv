@@ -7,7 +7,7 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 Aside
@@ -20,7 +20,7 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> bdscott@umass.edu
+- <i class="fa fa-envelope"></i> brents@wustl.edu
 - <i class="fas fa-desktop"></i> [brentscott.us](https://brentscott.us)
 - <i class="fa fa-github"></i> [github.com/brentscott93](https://github.com/brentscott93)
 - <i class="fa fa-phone"></i> (239) 877-0347
@@ -34,14 +34,13 @@ Skills {#skills}
 
 - Experience in isolation and purification of proteins
 
-- Computer programming: proficient in R. Familiar with Bash, Markdown, HTML, and CSS.
+- Computer programming: proficient in R. Familiar with Python, Nix, Bash, Markdown, HTML, and CSS.
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 Last updated on `r Sys.Date()`.
-
 
 
 Main
@@ -52,7 +51,7 @@ Brent Scott {#title}
 
 ### About Me
 
-I am a PhD Candidate in the Kinesiology department at UMass Amherst with a research emphasis in single molecule biophysics and molecular muscle physiology. Specifically, I am interested in understanding how myosin transduces chemical energy into the mechanical forces that drive human motion with additional interest in the regulation of this process via the proteins troponin and tropomyosin. The primary experimental techniques I use are the laser trap and in vitro motility assays. 
+I am a post-doctoral research associate in the Biochemistry & Molecular Biophysics department at Washington University in St. Louis in the [Greenberg Lab](https://glab.biochem.wustl.edu/). More specifically, I am interested in understanding the basic functions of the heart from a molecular perspective in efforts to better understand the manifestations of various heart diseases such as genetic cardiomyopathies and the congenital atrial septal defect.  
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -60,11 +59,11 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### University of Massachusetts Amherst 
 
-PhD in Kinesiology (currently pursuing)
+PhD in Kinesiology
 
 Amherst, MA
 
-ETA Spring 2022
+August 2022
 
 Thesis: What is the relative timing between myosin's powerstroke and phosphate release?
 
@@ -90,15 +89,28 @@ Nashville, TN
 Research Experience {data-icon=vial}
 --------------------------------------------------------------------------------
 
+### Post-doctoral Research Associate (current)
+
+Greenberg Lab - Washington University in St. Louis
+
+St. Louis, MO
+
+2022-Current
+
+- Main research interests: molecular determinants of genetic and congenital heart diseases
+- Expanded single molecule biophysical techniques to include isometric force clamping and harmonic force spectroscopy
+- Learn complimentary stopped-flow techniques to characterize protein kinetics
+
 ### Graduate Research Assistant
 
 Muscle Biophysics Lab - University of Massachusetts Amherst
 
 Amherst, MA
 
-2016-Current
+2016-2022
 
-- Perform single molecule/mini-ensemble laser trap experiments and large ensemble experiments with the *in vitro* motility assay
+- Main research interests: Transduction of chemical energy into mechanical work by molecular motors
+- Performed single molecule/mini-ensemble laser trap experiments and large ensemble experiments with the *in vitro* motility assay
 - Protein isolation (myosin and actin) 
 - Programmed apps to automate the workflows for the analysis of laser trap and in vitro motility data using R. 
 
@@ -122,7 +134,7 @@ Instructor of Record for course using Moodle.
 
 UMass Amherst
 
-3x
+4x
 
 ### Human Performance & Nutrition - KIN 110 
 
@@ -173,7 +185,7 @@ UMass Amherst
 1x
 
 
-Selected Publications {data-icon=newspaper}
+Publications {data-icon=newspaper}
 --------------------------------------------------------------------------------
 
 ###  Myosin's powerstroke occurs prior to the release of phosphate from the active site. 
@@ -206,6 +218,83 @@ N/A
 
 Woodward M, Ostrander E, Jeong S, Liu X, **Scott B**, Unger M, Chen J, Venkataraman D, Debold EP. 
 
+
+Publication in Progress (under review, soon-to-be, and conference abstracts) {data-icon=triangle-person-digging}
+--------------------------------------------------------------------------------
+
+### A point mutation in switch 1 alters the load dependence of phosphate rebinding to actomyosin. 
+
+Revisions in progress at Nature Communication
+
+N/A.
+
+2023
+
+Marang C, **Scott B**, Debold EP
+
+### Cardiac myosin's mechanics and load dependent kinetics are not altered by the thin-filament proteins.
+
+Abstract submitted to the 2023 Annual Biophysical Society Meeting
+
+N/A
+
+2023
+
+**Scott B**, Clippinger S, Barrick S, Stump W, Blackwell T, Greenberg MJ
+
+### Cardiac myosin velocity and force are dramatically improved with an alternate triphoshate substrate
+
+Abstract submitted to 2023 Annual Biophysical Society Meeting
+
+N/A
+
+2023
+
+Woodward M, Marang C, **Scott B**, Debold EP
+
+### Fitting a model to multiscale data suggests thick filament activation can produce force depression in muscle fibers
+
+Abstract submitted to 2023 Annual Biophysical Society Meeting
+
+N/A 
+
+2023
+
+Walcott S, Marang C, **Scott B**, Woodward M, Debold EP
+
+### Tirasemtiv and dATP synergistically reverse the acidosis-induced depression of myosin's force and motion generating capacity
+
+In preperation for journal submission
+
+N/A
+
+2023
+
+Marang C, Woodward M, **Scott B**, Debold EP
+
+### lasertrapr: Automated analysis of laser trap data
+
+In preperation for journal submission (JOSS) and rOpenSci
+
+N/A
+
+2023
+
+**Scott B**, Marang C, Woodward M, Debold EP
+
+### Replication, repeatability, and application for utilizing the critical running speed model
+
+In preperation for journal submission (STORK - Communications in Kinesiology)
+
+N/A
+
+2023
+
+**Scott B**, Knight A, Bertschy M, Hoogkamer W
+
+
+
+
 Presentations {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 ###  Biophysical Society 65th Annual Meeting
@@ -233,6 +322,15 @@ filament regulation during muscle fatigue
 
 Grants {data-icon=receipt}
 --------------------------------------------------------------------------------
+
+### UMass KIN Travel Grant
+
+$500
+
+N/A
+
+2021
+
 ### UMass KIN Travel Grant
 
 $150
@@ -259,7 +357,7 @@ National Strength & Conditioning Association (NSCA)
 
 N/A
 
-2016-2021
+2016-2022
 
 ### UMass Continuing & Professional Education Online Instructor Certification
 
@@ -291,8 +389,9 @@ Muscle Biophysics Lab
 
 UMass Amherst
 
-2018-2020
+2018-2022
 
+- Katie Boutin, B.S. Kinesiology 2022
 - Sabrina Harrath, B.S. Biology 2020
 - Cindy Nguyen, B.S. Kinesiology 2020
 
