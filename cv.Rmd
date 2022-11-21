@@ -51,7 +51,7 @@ Brent Scott {#title}
 
 ### About Me
 
-I am a post-doctoral research associate in the Biochemistry & Molecular Biophysics department at Washington University in St. Louis in the [Greenberg Lab](https://glab.biochem.wustl.edu/). More specifically, I am interested in understanding the basic functions of the heart from a molecular perspective in efforts to better understand the manifestations of various heart diseases such as genetic cardiomyopathies and the congenital atrial septal defect.  
+I am a post-doctoral research associate in the Biochemistry & Molecular Biophysics department at Washington University in St. Louis in the [Greenberg Lab](https://glab.biochem.wustl.edu/). More specifically, I am interested in understanding the basic functions of the heart from a molecular perspective in efforts to better understand the manifestations of various heart diseases such as genetic cardiomyopathies and congenital atrial septal defect.
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -219,14 +219,14 @@ N/A
 Woodward M, Ostrander E, Jeong S, Liu X, **Scott B**, Unger M, Chen J, Venkataraman D, Debold EP. 
 
 
-Publication in Progress (under review, soon-to-be, and conference abstracts) {data-icon=triangle-person-digging}
+Publications in Progress (under review, conference abstracts, etc) {data-icon=traffic-cone}
 --------------------------------------------------------------------------------
 
 ### A point mutation in switch 1 alters the load dependence of phosphate rebinding to actomyosin. 
 
 Revisions in progress at Nature Communication
 
-N/A.
+N/A
 
 2023
 

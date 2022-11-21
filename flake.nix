@@ -15,6 +15,7 @@
           rev = "b87ca50c8c4d5a5876333b598aed4eb84de925a3";
           sha256 = "12mhmmibizbxgmsns80c8h97rr7rclv9hz98zpgsl26hw3s4l0vm";
         };
+   propagatedBuildInputs = with pkgs.rPackages; [bslib evaluate jsonlite knitr stringr tinytex yaml xfun];
       };
     in {
       devShells.default = pkgs.mkShell {
